@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jhonatan Wendel",
+      "email": "wendeljhonatan@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Madson Luiz",
+      "email": "madson369@placeholder.com"
+    },
+    {
+      "id": 3,
+      "name": "Ingryd Fernandes",
+      "email": "ingrydf@placeholder.com"
+    }
+  ]
+}
